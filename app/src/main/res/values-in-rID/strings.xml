@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="title">Judul Buku</string>
+    <string name="author">Penulis Buku</string>
+    <string name="pages">Jumlah Halaman</string>
+    <string name="add">Tambah Buku</string>
+    <string name="add_text">Mohon isi form di bawah\nuntuk menambahkan data buku baru.</string>
+    <string name="action_add">Tambah</string>
+    <string name="update">Ubah Buku</string>
+    <string name="update_text">Mohon isi form di bawah\nuntuk mengubah data buku.</string>
+    <string name="action_update">Ubah</string>
+    <string name="action_delete">Hapus</string>
+</resources>

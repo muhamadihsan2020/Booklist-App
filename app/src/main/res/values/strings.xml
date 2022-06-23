@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Book List</string>
+
+    <string name="title">Book Title</string>
+    <string name="author">Book Author</string>
+    <string name="pages">Number of Pages</string>
+
+    <string name="add">Add Book</string>
+    <string name="add_text">Please fill up the forms below \nfor Add New Book.</string>
+    <string name="action_add">Add</string>
+
+    <string name="update">Update Book</string>
+    <string name="update_text">Please fill up the forms below \nfor Update Book.</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+
+</resources>
